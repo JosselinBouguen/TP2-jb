@@ -1,0 +1,5 @@
+C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.csprojAssemblyReference.cache
+C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.Form1.resources
+C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.Properties.Resources.resources
+C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.csproj.GenerateResource.cache
+C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.csproj.CoreCompileInputs.cache
