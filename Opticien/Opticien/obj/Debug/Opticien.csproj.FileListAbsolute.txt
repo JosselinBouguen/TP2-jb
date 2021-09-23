@@ -3,3 +3,17 @@ C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.Form1.resour
 C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.Properties.Resources.resources
 C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.csproj.GenerateResource.cache
 C:\Users\jbouguen\source\repos\Opticien\Opticien\obj\Debug\Opticien.csproj.CoreCompileInputs.cache
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.csprojAssemblyReference.cache
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.Form1.resources
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.Properties.Resources.resources
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.csproj.GenerateResource.cache
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.csproj.CoreCompileInputs.cache
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\Opticien.exe.config
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\Opticien.exe
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\Opticien.pdb
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\MySql.Data.dll
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\Google.Protobuf.dll
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\bin\Debug\MySql.Data.xml
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.csproj.CopyComplete
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.exe
+F:\COURS\2e-année\SLAM-5\TP2\Opticien\Opticien\obj\Debug\Opticien.pdb

@@ -19,7 +19,7 @@ namespace Opticien
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Controleur.initConnexion();
         }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
@@ -29,9 +29,7 @@ namespace Opticien
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            var win2 = new Window();
-            win2.Show();
-            this.Close();
+        
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -42,6 +40,24 @@ namespace Opticien
         private void Button3_Click(object sender, EventArgs e)
         {
 
+        }
+    }
+    private void chargerCbModele()
+    {
+        cbModele.Items.Clear();
+        if (Controleur.VmodeleC.DT[3].Rows.Count == 0)
+        {
+            cbModele.Items.Add("Pas de compétences enregistrées");
+            lbCompetences.Visible = false;
+        }
+        else
+        {
+            for (int i = 0; i < Controleur.VmodeleC.DT[3].Rows.Count; i++)
+            {
+                cbCompetences.Items.Add(Controleur.VmodeleC.DT[3].Rows[i]["LIBELLECOMPETENCE"].ToString());
+            }
+            lbCompetences.Visible = true;
+            lbCompetences.Items.Clear();
         }
     }
 }
